@@ -1,0 +1,5 @@
+wolf
+slime
+Ghost
+Undead
+orc

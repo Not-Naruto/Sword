@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="title_screen">
+    <file>icon.ico</file>
+    <file>img/title.jpg</file>
+  </qresource>
+  <qresource prefix="enemies">
+    <file>img/enemies/ghost.jpg</file>
+    <file>img/enemies/orc.jpg</file>
+    <file>img/enemies/slime.png</file>
+    <file>img/enemies/undead.jpg</file>
+    <file>img/enemies/wolf.jpg</file>
+  </qresource>
+  <qresource prefix="maps">
+    <file>img/plr.png</file>
+    <file>img/levelmaps/Level 1.png</file>
+    <file>img/levelmaps/Level 2.png</file>
+    <file>img/levelmaps/Level 3.png</file>
+    <file>img/levelmaps/Level 4.png</file>
+    <file>img/levelmaps/Level 5.png</file>
+  </qresource>
+</RCC>
